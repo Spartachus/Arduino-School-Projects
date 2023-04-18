@@ -1,12 +1,3 @@
-/*
-  IR Receiver Demonstration 3
-  IR-Rcv-Demo3.ino
-  Control LED's using Unused IR Remote keys
-
-  DroneBot Workshop 2017
-  http://dronebotworkshop.com
-*/
-
 // Include IR Remote Library by Ken Shirriff
 #include <IRremote.h>
 
