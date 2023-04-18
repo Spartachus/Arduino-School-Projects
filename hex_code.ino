@@ -1,12 +1,3 @@
-/*
-  IR Receiver Demonstration 1
-  IR-Rcv-Demo1.ino
-  Demonstrates IR codes with IR Receiver
-  Displays results on Serial Monitor
-
-  DroneBot Workshop 2017
-  http://dronebotworkshop.com
-*/
 
 // Include IR Remote Library by Ken Shirriff
 #include <IRremote.h>
